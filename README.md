@@ -29,6 +29,7 @@ REST-API сервис для отслеживания дневной нормы 
 Добавить переменные окружения в `conficuration properties` или `.env` файл
 + `DATABASE_URL`
 + `DATABASE_USERNAME`
++ `DATABASE_PASSWORD`
 
 #### 3. Настроить базу данных
 Создать базу данных и инициализировать таблицы при помощи файла `update-schema.sql`
